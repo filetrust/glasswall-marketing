@@ -10,5 +10,5 @@ Public repository for Glasswall marketing material.
 ## To Do List
 - [x] Create Github Repo
 - [x] Populate Github Repo
-- [] Collect Feedback
-- [] Improve Github Repo
+- [ ] Collect Feedback
+- [ ] Improve Github Repo
